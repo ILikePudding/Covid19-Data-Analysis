@@ -1,5 +1,3 @@
-# Group Project
-Bao Khoi Bui (2060524), Aufstin Filiko (1638529), Shiv Vipulbhai Bardolia (2156848)
 ## Project Overview
 
 This project explores the COVID-19 dataset to uncover trends, patterns, and anomalies during the pandemic, focusing on both the pre- and post-vaccination periods. By utilizing clustering techniques alongside exploratory data analysis (EDA), data preprocessing, and outlier detection, the project aims to identify meaningful insights into the effect of covid vaccines on the number of new cases, deaths, and hospitlization rates.
@@ -45,3 +43,8 @@ This should open a local instance of jupyter lab and navigating to the project f
 5. **Report**:
    - Provides insight into the creating of the notebooks and the methodology behind the analysis. 
    - Documented figures, results, and conclusions from the project.
+
+## Contributers
+Bao Khoi Bui, 
+Aufstin Filiko, 
+Shiv Vipulbhai Bardolia
