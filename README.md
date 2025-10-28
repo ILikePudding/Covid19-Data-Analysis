@@ -1,3 +1,5 @@
+# Covid-19 Data Analysis
+
 ## Project Overview
 
 This project explores the COVID-19 dataset to uncover trends, patterns, and anomalies during the pandemic, focusing on both the pre- and post-vaccination periods. By utilizing clustering techniques alongside exploratory data analysis (EDA), data preprocessing, and outlier detection, the project aims to identify meaningful insights into the effect of covid vaccines on the number of new cases, deaths, and hospitlization rates.
@@ -48,3 +50,4 @@ This should open a local instance of jupyter lab and navigating to the project f
 Bao Khoi Bui, 
 Aufstin Filiko, 
 Shiv Vipulbhai Bardolia
+
